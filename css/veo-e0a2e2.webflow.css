@@ -148,6 +148,7 @@
   overflow: auto;
   width: 100%;
   margin-bottom: 40px;
+  margin-left: 5%;
   padding: 60px 10%;
   -o-object-fit: fill;
   object-fit: fill;
